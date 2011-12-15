@@ -1,0 +1,16 @@
+{
+  "name": "observe",
+  "version": "0.1.0",
+  "description": "An event observer pattern helper for commonJS",
+  "keywords": ["events"],
+  "author": {
+    "name": "Matthew O'Donoghue",
+    "email": "mattyod@gmail.com",
+    "url": "http://www.mtod.co.uk/"
+  },
+  "main": "observe.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
