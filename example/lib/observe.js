@@ -1,3 +1,9 @@
+/*
+ * Observe
+ * Copyright(c) 2011 Matthew O'Donoghue <mattyod@gmail.com>
+ * MIT Licensed
+ */
+ 
 var Events  = require('events').EventEmitter;
 
 var o = {
